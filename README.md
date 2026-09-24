@@ -1,5 +1,7 @@
 # fuckthealgos
 
+> There's a lil gaggle of essays I wrote after riding out a blizzard at a Hilton Garden for 4 days in Kansas. I was on a hyperlocal news and surviellance capitalism kick. Start with [Opinions I Got Em](https://github.com/desertrat10/fuckthealgos/blob/main/opinions-i-got-em/1.0%20Introduction%20to%20Drowning%20By%20Design.md#drowning-by-design--hyperlocal-information-network-deterioration--why-it-matters).
+
 Started my #filterless experiment yesterday on LinkedIn. I think its time we all stop cosplaying professional productivity games and just say what we really think, mean, believe— without filters, guilt or apologies.
 
 As a comms nerd of 30 years now (journalism → web2 marketing → community/comms in crypto/AI) I’ve seen the full arc. When I started copywriting professionally in 2003, my per word rate on my first gig was $1/word. Ha!!!
