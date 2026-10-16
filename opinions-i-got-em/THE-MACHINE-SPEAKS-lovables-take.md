@@ -68,7 +68,3 @@ Onto Protocol FTA_02.
 
 ---
 
-Where to take this next
-
-1. Publishing options: We can drop this into your GitHub `fuck-it/` folder as a featured essay (e.g. `THE-MACHINE-SPEAKS.md`), or format it as the anchor dispatch on LinkedIn to close out Day 30.
-2. Site integration: If you want, we can add a direct excerpt or dedicated card for this Machine Letter right in the Observatory (`/dashboard`) as the companion to your human essays.
